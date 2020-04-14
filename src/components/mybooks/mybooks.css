@@ -1,0 +1,11 @@
+.block {
+    margin-bottom: 50px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+.str-blk {
+    color: white;
+}

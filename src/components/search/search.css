@@ -1,0 +1,13 @@
+.srh{
+    border: 0;
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 40px;
+    font-size: large;
+    margin-bottom: 20px;
+}
+.search-holder {
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap: 5px;
+}
